@@ -18,5 +18,7 @@ Publications
 *   **[Dynamic sampling of text streams and its application in text analysis](https://www.researchgate.net/publication/315663166_Dynamic_sampling_of_text_streams_and_its_application_in_text_analysis)**, *Knowledge and Information Systems*, 2017.  Gang Tian, **Jiajia Huang**, Min Peng, Jiahui Zhu, Yanchun Zhang
 *   **[A probabilistic method for emerging topic tracking in Microblog stream](https://www.researchgate.net/publication/301577053_A_probabilistic_method_for_emerging_topic_tracking_in_Microblog_stream)**, *World Wide Web: Internet and Web Information Systems*, 2017. **Jiajia Huang**, Min Peng, Hua Wang,  Xiuzhen Zhang.
 *   **Sparse Topical Coding with Sparse Groups**, *WAIM*, 2016. Min Peng, Qianqian Xie, **Jiajia Huang**, Jiahui Zhu, Shuang Ouyang, Jimin Huang, Gang Tian.
-*   **Topic Detection from Large Scale of Microblog Stream with High Utility Pattern Clustering**, *PIKM@CIKM*, 2015.  **Jiajia Huang**, Min Peng, Hua Wang
-* **High Quality Microblog Extraction Based on Multiple Features Fusion and Time-Frequency Transformation**,*WISE*, 2013.	Min Peng, **Jiajia Huang**, Hui Fu, Jiahui Zhu, Li Zhou, Yanxiang He, Fei Li
+*   **High quality information extraction and query-oriented summarization for automatic query-reply in social network**, *Expert Systems with Applications*,Min Peng, Binlong Gao, Jiahui Zhu, **Jiajia Huang**, Mengting Yuan, Fei Li.
+*   **Topic Detection from Large Scale of Microblog Stream with High Utility Pattern Clustering**, *PIKM@CIKM*, 2015.  **Jiajia Huang**, Min Peng, Hua Wang.
+*   **Central Topic Model for Event-oriented Topics Mining in Microblog Stream**, *CIKM*, 2015, Min Peng, Jiahui Zhu, Xuhui Li, **Jiajia Huang**, Hua Wang, Yanchun Zhang.
+* **High Quality Microblog Extraction Based on Multiple Features Fusion and Time-Frequency Transformation**,*WISE*, 2013.	Min Peng, **Jiajia Huang**, Hui Fu, Jiahui Zhu, Li Zhou, Yanxiang He, Fei Li.
