@@ -11,25 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Anqing Normal University, 2007-2011
+* M.S. in Computer Software and Theory, Wuhan University, 2011-2013
+* Ph.D in Computer Software and Theory,  Wuhan University, 2013-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016.07-2017.03: Engineer, the 28th of NRIEE
+* 2017.03-2022.10: Lecturers,  Nanjing Audit University
+  *2022.11- , Associate Professor, Nanjing Audit University
+   
   
 Skills
 ======
-* Skill 1
+* Skill generative model
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -38,9 +33,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>{% https://jenny-hjj.github.io/ %}</ul>
   
 Talks
 ======
