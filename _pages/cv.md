@@ -18,35 +18,35 @@ Education
 Work experience
 ======
 * 2016.07-2017.03: Engineer, the 28th of NRIEE
-* 2017.03-2022.10: Lecturers,  Nanjing Audit University
-  *2022.11- , Associate Professor, Nanjing Audit University
+* 2017.03-2022.10: Lecturers, Nanjing Audit University
+* 2022.11- , Associate Professor, Nanjing Audit University
    
   
-Skills
+Research Interests
 ======
-* Skill generative model
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Knowledge Graph, including Ontology Construction, Named Entity Recognition, Relation Extraction.
+* Topic Model, including topic modeling, topic evolution
+* Text Mining and Opinion Mining
+
+Skills
+=====
+* good at learning new skills and knowledge
+* have a good command of both spoken and written english
+* familiar with python for text mining and deep learning
+* proficient in algorithms of mearchine learning. 
 
 Publications
 ======
-  <ul>{% https://jenny-hjj.github.io/ %}</ul>
+  <ul>{ https://jenny-hjj.github.io/ }</ul>
   
-Talks
+Project
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+*Research on  event extraction and evolution analysis based on representation learning, National Natural Science Fund, 2100000, 2019-2021.
+   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ * **Text Mining**, 2 credits.
+ * **Data Mining**, 3 credits.
+ * **Application of SPSS Software**, 2 credits.
+ * **Data Analysis Methods**, 5 credits.
+ 
